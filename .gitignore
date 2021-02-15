@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.cache
+*.dll
+
+client/WpfApp1/bin/Debug/
+client/WpfApp1/obj/
+
+.vs/
+.vscode/
