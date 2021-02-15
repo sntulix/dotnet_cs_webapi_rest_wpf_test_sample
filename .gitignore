@@ -6,5 +6,9 @@
 client/WpfApp1/bin/Debug/
 client/WpfApp1/obj/
 
+server/bin/Debug/
+server/obj/
+
+.DS_Store
 .vs/
 .vscode/
